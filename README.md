@@ -1,5 +1,4 @@
-18yo
-learning python
+
 
 <!---
 Parallax73/Parallax73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
