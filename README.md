@@ -6,10 +6,10 @@
 </p>
 
 <p align="left">
-   Linguagens: **Java, Python, HTML, CSS.**
+   Linguagens: Java, Python, HTML, CSS.
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Spring Framework, MySQL.**
+  Ferramentas: Spring Framework, MySQL.
 </p>
 
