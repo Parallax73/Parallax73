@@ -2,9 +2,7 @@
 
 # Gabriel Santos Leite
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](YOURLINKEDIN)
-![Location](https://img.shields.io/badge/Location-São%20Paulo%2C%20SP-green?style=flat-square)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](YOURPORTFOLIO)
+
 
 ## 👨‍💻 About Me
 
