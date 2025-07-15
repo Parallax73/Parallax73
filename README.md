@@ -27,25 +27,6 @@ const skills = {
 };
 ```
 
-## 🎯 Featured Projects
-
-### 🏠 RealTour
-Full-stack real estate platform showcasing properties with virtual tours.
-- **Tech Stack:** 
-  - Backend: Java, Spring Boot, RESTful APIs
-  - Frontend: TypeScript, Angular, HTML, SCSS 
-  - Tools: Docker, Git
-- [View Project](https://github.com/Parallax73/Realtour)
-
-### 🎵 Soundle
-Interactive music guessing game integrated with Spotify API.
-- **Tech Stack:**
-  - Backend: Java, Spring Boot, RESTful APIs
-  - Frontend: TypeScript, Angular, HTML, SCSS
-  - Database: MongoDB
-  - Tools: Docker, Git
-- [View Project](https://github.com/Parallax73/Soundle)
-
 ## 📊 GitHub Analytics
 
 <div align="center">
