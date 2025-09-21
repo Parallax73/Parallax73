@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Computer Science student passionate about web development, focused on Back-end and Full-stack development using Java and TypeScript. Always seeking new challenges and opportunities to expand my technical knowledge.
+Computer Science student passionate about web development, focused on Back-end and Full-stack development. Always seeking new challenges and opportunities to expand my technical knowledge.
 
 ## 🚀 Technical Skills
 
