@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-# Gabriel Santos Leite
 
 
 
-## 👨‍💻 About Me
+
+## About Me
 
 Computer Science student passionate about web development, focused on Back-end and Full-stack development. Always seeking new challenges and opportunities to expand my technical knowledge.
 
-## 🚀 Technical Skills
+## Skills
 
 ```javascript
 const skills = {
