@@ -12,7 +12,7 @@ Computer Science student passionate about web development, focused on Back-end a
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parallax73&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parallax73&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Parallax73&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Parallax73&theme=github_dark&utcOffset=-3)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parallax73&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parallax73&theme=github_dark)
 <p align="center">
